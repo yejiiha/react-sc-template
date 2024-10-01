@@ -1,1 +1,1 @@
-# react-sc-template
+# react-init-template
