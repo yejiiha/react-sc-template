@@ -55,7 +55,7 @@
     "import/order": [
       "error",
       {
-        "groups": ["parent", "external", "builtin", "sibling", "index"],
+        "groups": ["sibling", "external", "parent", "builtin", "index"],
         "newlines-between": "never",
         "alphabetize": {
           "order": "asc",
